@@ -1,0 +1,20 @@
+{
+    "theme": "light",
+    "language": "ar",
+    "clinic_info": {
+        "name": "مركز جوزيل للتجميل",
+        "phone": "+963956961395",
+        "address": "سوريا - ريف دمشق التل موقف طيبة مقابل امركز الثقافي الجديد",
+        "email": "",
+        "social_media": {}
+    },
+    "backup": {
+        "auto_backup": true,
+        "backup_interval_days": 1,
+        "backup_location": "backups/"
+    },
+    "notifications": {
+        "appointment_reminder": true,
+        "reminder_hours_before": 24
+    }
+}
